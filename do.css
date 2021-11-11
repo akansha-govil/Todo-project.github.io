@@ -1,0 +1,95 @@
+.Heading {
+    width: 50%;
+    height: 10%;
+    margin: 100px auto;
+    position: relative;
+    text-align: center;
+    
+}
+
+  #back {
+
+width: 80%;
+height: 100%;
+top: 0;
+right: 0;
+opacity: 0.5;
+font-size: 25px;
+padding-top: 28px;
+} 
+
+.inner {
+width: 30%;
+height: 100%;
+ 
+text-align: center;
+margin: 50px auto;
+
+
+
+}
+.card {
+    
+    
+
+        display:flex;
+        /* background-color: royalblue; */
+        
+        justify-content: space-around;
+        flex-wrap: wrap;
+        flex-direction: row;
+        width: 70%;
+        margin-top: 50px;
+        height: 300px;
+        margin:auto;
+        margin-bottom: 50px;
+        
+    
+} 
+
+.trip {
+  
+    width: 15%;
+    border: 1px red solid;
+    text-align: center;
+    border-radius: 12px;
+    color: red;
+    font-family: sans-serif;
+    box-shadow: 5px 5px 8px 5px lightgray ;
+    margin-top: 10px;
+    
+   
+}
+hr {
+    margin-left:50px;
+}
+
+.subtitle {
+
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 20px;
+    
+}
+.content {
+
+
+    margin-top: 60px ;
+    text-decoration: line-through solid red ;
+    font-size: 20px;
+    font-weight: bolder;
+    
+    
+}
+.checkbox {
+
+    color: black;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+#check {
+    width: 18px;
+    height: 18px;
+    margin-top: 30px;
+}
